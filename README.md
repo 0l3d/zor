@@ -9,4 +9,4 @@ zor is simple XOR encryption/decryption utility in C.
 
 # Author
 
-Created By **0l3d**.
+Created By **oled**.
